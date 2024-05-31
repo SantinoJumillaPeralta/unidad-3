@@ -1,0 +1,9 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\santino\Downloads\unidad 3\4\Box2dFirstApp\Src\Game.h(6,10): error C1083: No se puede abrir el archivo incluir: 'Avatar.h': No such file or directory
+C:\Users\santino\Downloads\unidad 3\4\Box2dFirstApp\Src\Game.h(6,10): error C1083: No se puede abrir el archivo incluir: 'Avatar.h': No such file or directory
+  SFMLRenderer.cpp
+C:\Users\santino\Downloads\unidad 3\4\Box2dFirstApp\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\santino\Downloads\unidad 3\4\Box2dFirstApp\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Avatar.cpp
+  Generando código...
